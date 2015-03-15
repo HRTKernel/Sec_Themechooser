@@ -183,6 +183,63 @@
 
     <ThemeApp
         theme:className="com.sec.android.app.themechooser.ThemeListActivity"
-        theme:iconId="theme_app_theme_icon" />        
+        theme:iconId="theme_app_theme_icon" />
 
+    <ThemeApp
+        theme:className="com.facebook.katana.LoginActivity"
+        theme:iconId="theme_app_facebook_icon" />
+
+    <ThemeApp
+        theme:className="com.google.android.apps.chrome.Main"
+        theme:iconId="theme_app_chrome_icon" />
+    
+	<ThemeApp
+        theme:className="com.estrongs.android.pop.view.FileExplorerActivity"
+        theme:iconId="theme_app_es_icon" />	
+   
+   <ThemeApp
+        theme:className="com.dropbox.android.activity.DropboxBrowser"
+        theme:iconId="theme_app_dropbox_icon" />	
+    
+	<ThemeApp
+        theme:className="com.google.android.gm.ConversationListActivityGmail"
+        theme:iconId="theme_app_gmail_icon" />	
+    
+	<ThemeApp
+        theme:className="com.google.android.apps.plus.phone.HomeActivity"
+        theme:iconId="theme_app_googleplus_icon" />	
+    
+	<ThemeApp
+        theme:className="com.quoord.tapatalkpro.activity.directory.ics.IcsEntryActivity"
+        theme:iconId="theme_app_tapatalk_icon" />	
+    
+	<ThemeApp
+        theme:className="com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
+        theme:iconId="theme_app_youtube_icon" />
+
+	<ThemeApp
+        theme:className="com.android.vending.AssetBrowserActivity"
+        theme:iconId="theme_app_playstore_icon" />
+
+	<ThemeApp
+        theme:className="com.whatsapp.Main"
+        theme:iconId="theme_app_whatsapp_icon" />
+
+	<ThemeApp
+        theme:className="com.google.android.apps.plus.phone.ConversationListActivity"
+        theme:iconId="theme_app_googlefoto_icon" />
+
+	<ThemeApp
+        theme:className="com.google.android.gms.app.settings.GoogleSettingsActivity"
+        theme:iconId="theme_app_googlesetting_icon" />
+
+	<ThemeApp
+        theme:className="com.google.android.googlequicksearchbox.SearchActivity"
+        theme:iconId="theme_app_google_icon" />
+
+	<ThemeApp
+        theme:className="com.google.android.maps.MapsActivity"
+        theme:iconId="theme_app_googlemaps_icon" />		
+			
 </ThemeAppList>
+
